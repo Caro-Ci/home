@@ -12,7 +12,7 @@ Clinical decisions are made with incomplete, noisy, and heterogeneous data under
   flip=true
   style="bare"
 %}
-
+{% capture text %}
 M2L Lab is led by Dr. Zahra Ahmadi and is located at the Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Medical School Hannover, with the teams offices at the site of Medical School Hannover.
 
 {%
