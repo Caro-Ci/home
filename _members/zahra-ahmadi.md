@@ -2,7 +2,6 @@
 name: Zahra Ahmadi
 image: images/ahmadi.jpg
 role: principal-investigator
-affiliation: Peter L. Reichertz Institute, Medical School Hannover
 aliases:
   - Z. Ahmadi
   - Z Ahmadi
