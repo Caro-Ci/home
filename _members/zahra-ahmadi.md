@@ -1,6 +1,6 @@
 ---
 name: Zahra Ahmadi
-image: images/ahmadi.jpg
+image: team/ahmadi.jpg
 role: principal-investigator
 aliases:
   - Z. Ahmadi
