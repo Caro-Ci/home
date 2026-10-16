@@ -6,7 +6,7 @@ aliases:
   - Z. Ahmadi
   - Z Ahmadi
 links:
-  home-page: https://plri.de/en/team/zahra-ahmadi
+  google-scholar: QdQRYyAAAAAJ
   orcid: 0000-0003-1110-4756
 ---
 
