@@ -124,6 +124,12 @@ youtube:
   tooltip: YouTube
   link: https://youtube.com/$VALUE
 
+linkedin_lab:
+  icon: fa-brands fa-linkedin
+  text: LinkedIn
+  tooltip: LinkedIn
+  link: https://www.linkedin.com/$VALUE
+
 linkedin:
   icon: fa-brands fa-linkedin
   text: LinkedIn
