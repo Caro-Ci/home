@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-An overview of the publication of M2L Lab members.
+An overview of the work from members of M2L Lab.
 
 {% include section.html %}
 
