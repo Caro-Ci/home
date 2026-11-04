@@ -18,4 +18,4 @@ An overview of the work from members of M2L Lab.
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filter="date.to_s >= '2021'"%}
+{% include list.html data="citations" component="citation" style="rich" filter="date.to_s >= '2024'"%}
